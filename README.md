@@ -16,7 +16,47 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(10).pdf" style="text-decoration:none;">Stable Marriage and Its Relation to Other Combinatorial Problems: An Introduction to the Mathematical Analysis of Algorithms</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(11).pdf" style="text-decoration:none;">The TEXbook</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(12).pdf" style="text-decoration:none;"><span style ="color:red">The Sandwich</span> Theorem</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(13).pdf" style="text-decoration:none;">The Early Development of Programming Languages</a></b></li>                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(13).pdf" style="text-decoration:none;">The Early Development of Programming Languages</a></b></li>  
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(14).pdf" style="text-decoration:none;">The Art of Computer Programming - A draft of section 7.2.1.1: Generating all n-tuples </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(15).pdf" style="text-decoration:none;">A Recurrence Related to Trees</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(16).pdf" style="text-decoration:none;"><span style ="color:red">An Empirical Study</span> of FORTRAN Programs - Computer Science</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(17).pdf" style="text-decoration:none;">The Genesis of Attribute Grammars</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(18).pdf" style="text-decoration:none;">Big Omicron and big Omega and big Theta </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(19).pdf" style="text-decoration:none;"><span style ="color:red">Joint Review</span> of Algorithmic Barriers Falling: P=NP?</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(20).pdf" style="text-decoration:none;">The Complexity of Songs</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(21).pdf" style="text-decoration:none;">The Errors of TEX*</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(22).pdf" style="text-decoration:none;">The Computer as <span style ="color:red">Master Mind </span></a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(23).pdf" style="text-decoration:none;">The correspondence between Donald E. Knuth and Peter van Emde Boas on priority deques during the spring of 1977</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(24).pdf" style="text-decoration:none;">Breaking Paragraphs into Lines*</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(25).pdf" style="text-decoration:none;"><span style ="color:red">An Earthshaking</span> Announcement</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(26).pdf" style="text-decoration:none;">Axioms and Hulls</a></b></li>   
+                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(27).pdf" style="text-decoration:none;">The Metafont book</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(28).pdf" style="text-decoration:none;"><span style ="color:red">The Art of Computer Programming</span>, Volume 4A: Combinatorial Algorithms</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(29).pdf" style="text-decoration:none;">Structured Programming with go to Statements</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(30).pdf" style="text-decoration:none;">Surreal numbers</a></b></li>    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
                                 
                                 
 </ul>
