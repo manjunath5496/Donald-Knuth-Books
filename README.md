@@ -40,8 +40,10 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(29).pdf" style="text-decoration:none;">Structured Programming with go to Statements</a></b></li>   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(30).pdf" style="text-decoration:none;">Surreal numbers</a></b></li>    
  
- 
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(31).pdf" style="text-decoration:none;"><span style ="color:red">MMIXware: </span> A RISC Computer for the Third Millennium</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(32).pdf" style="text-decoration:none;">Programming Languages and Systems - ESOP'94</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(33).pdf" style="text-decoration:none;">Things a Computer Scientist Rarely Talks About</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(34).pdf" style="text-decoration:none;">The CWEB System of Structured Documentation</a></b></li>  
  
  
  
