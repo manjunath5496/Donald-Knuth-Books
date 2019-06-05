@@ -6,7 +6,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/DEK(4).pdf" style="text-decoration:none;">Computer Programming as an Art</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/DEK(5).pdf" style="text-decoration:none;">Selected Papers on Fun and Games </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/DEK(6).pdf" style="text-decoration:none;"><span style ="color:red"Concrete</span> Mathematics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/DEK(6).pdf" style="text-decoration:none;"><span style ="color:red">Concrete</span> Mathematics</a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/DEK(7).pdf" style="text-decoration:none;">Literate Programming</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/DEK(8).pdf" style="text-decoration:none;">Mathematics for the Analysis of Algorithms</a></b></li>
