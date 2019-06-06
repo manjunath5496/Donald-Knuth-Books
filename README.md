@@ -46,7 +46,22 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(34).pdf" style="text-decoration:none;">The CWEB System of Structured Documentation</a></b></li>  
  
  
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(35).pdf" style="text-decoration:none;">Overlapping Pfa±ans</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(36).pdf" style="text-decoration:none;">Random Matroids* </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(37).pdf" style="text-decoration:none;">Algorithms in Modern Mathematics and Computer Science</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(38).pdf" style="text-decoration:none;">Arithmetik</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(39).pdf" style="text-decoration:none;">Matroid Partitioning</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(40).pdf" style="text-decoration:none;">A review of "Structured Programming"</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(41).pdf" style="text-decoration:none;">Algorithmic Themes</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(42).pdf" style="text-decoration:none;">Virtual Fonts: More Fun for Grand Wizards</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(43).pdf" style="text-decoration:none;">A torture test for TEX</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(44).pdf" style="text-decoration:none;">The PLtoTF processor</a></b></li>   
+                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(45).pdf" style="text-decoration:none;">Von Neumann's First Computer Program</a></b></li>
+                                 
+  
  
  
  
