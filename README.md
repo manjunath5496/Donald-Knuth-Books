@@ -61,9 +61,9 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(44).pdf" style="text-decoration:none;">The PLtoTF processor</a></b></li>   
                  <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(45).pdf" style="text-decoration:none;">Von Neumann's First Computer Program</a></b></li>
                                  
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(46).djvu" style="text-decoration:none;">Companion to the papers of Donald Knuth</a></b></li> 
  
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(47).djvu" style="text-decoration:none;">The Stanford GraphBase: A Platform for Combinatorial Computing</a></b></li>  
  
  
  
