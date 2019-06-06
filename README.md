@@ -46,7 +46,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(34).pdf" style="text-decoration:none;">The CWEB System of Structured Documentation</a></b></li>  
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(35).pdf" style="text-decoration:none;">Overlapping Pfa±ans</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(35).pdf" style="text-decoration:none;">Overlapping Pfaffians </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(36).pdf" style="text-decoration:none;">Random Matroids* </a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Donald-Knuth-Books/blob/master/DEK(37).pdf" style="text-decoration:none;">Algorithms in Modern Mathematics and Computer Science</a></b></li>
